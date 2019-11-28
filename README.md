@@ -17,5 +17,24 @@ Deploy a web service (client side / server side ) in python, with docker-compose
   
 <h3>  :rocket: Build and Deploy </h3>
 
-<p> Let's begin by downloading the repository and move into the folder named <b> app </b> with your cli </p>
+<p> Let's begin by downloading the repository and move into the folder named <b> Python-DockerCompose
+ </b> with your cli, you also can find a nmae for this folder who make more sense for you.</p>
+
+<p>Well two command, and the first one is : </p>
+
+<code>docker-compose build </code><br>
+
+<p>Which is return : </p>
+
+<img src="prove.png">
+
+<p>Now we finish this by : </p>
+
+<code> docker-compose up </code>
+
+<p> Which is return : </p>
+
+<img src="prove2.png>
+          
+<p>:tada: is done ! </p>
 
