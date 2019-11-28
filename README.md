@@ -1,7 +1,7 @@
 # Python-DockerCompose
-Deploy a web service (client side / server side ) in python, with docker-compose.
 
-<img href="dock.jpeg">
+
+<img src="dock.jpeg">
 
 <h3>  :octopus: What we talking about ? </h3>
 
