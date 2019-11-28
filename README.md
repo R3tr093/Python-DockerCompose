@@ -26,7 +26,7 @@ Deploy a web service (client side / server side ) in python, with docker-compose
 
 <p>Which is return : </p>
 
-<img src="prove.png">
+<img src="prove1.png">
 
 <p>Now we finish this by : </p>
 
@@ -34,7 +34,7 @@ Deploy a web service (client side / server side ) in python, with docker-compose
 
 <p> Which is return : </p>
 
-<img src="prove2.png>
+<img src="prove2.png">
           
 <p>:tada: is done ! </p>
 
