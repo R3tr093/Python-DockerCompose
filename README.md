@@ -7,7 +7,13 @@
 
 <p>On this repository I let a structure ready to build and use with only two command.</p>
 <p>That offer you to use a python environement with Django and Postgre.</p>
+<p>I followed the link below to build this environement, so if your lost or confuse you may be should take a look on the documentation </p>
+
 <p> :link: <a href="https://docs.docker.com/compose/django/a" target="_blank">Docker compose. </a></p>
+
+<br>
+
+<hr>
 
 <h3> :squirrel: What do we need ? </h3>
 
