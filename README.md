@@ -46,4 +46,4 @@ DATABASES = {
 ```
 
 <p><b>Note :  On certain platforms, you might need to edit  ALLOWED_HOSTS to  ALLOWED_HOSTS = ['*'] inside settings.py</b></p>
-d
+
