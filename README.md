@@ -26,7 +26,7 @@
 <h3> :bell: Let's begin !</h3>
 
 <code>sudo docker-compose run web django-admin startproject "NameOfYourFutureApp"</code><br><br>
-<code>sudo chmod 777 "FolderName"</code><br><br>
+<code>sudo chmod 777 -R "FolderName"</code><br><br>
 
 
 <p><i>In the folder you have created, you have to find the file named as settings.py and edit the array <b>DATABASES</b></i></p>
@@ -44,3 +44,6 @@ DATABASES = {
 }
 
 ```
+
+<p><b>Note :  On certain platforms, you might need to edit  ALLOWED_HOSTS to  ALLOWED_HOSTS = ['*'] inside settings.py</b></p>
+d
