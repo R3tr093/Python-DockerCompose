@@ -47,3 +47,8 @@ DATABASES = {
 
 <p><b>Note :  On certain platforms, you might need to edit  ALLOWED_HOSTS to  ALLOWED_HOSTS = ['*'] inside settings.py</b></p>
 
+<p> Then now use <b>docker-compose up </b></p>
+<img src="p1.png">
+ 
+ <p>It's should return to you at the <a href="http://localhost:8000/" target='_blank'>localhost:8000</a> your django starter.</p>
+
